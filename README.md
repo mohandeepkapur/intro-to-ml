@@ -1,3 +1,3 @@
-ML and Pattern Recognition Projects!
+Intro to ML and Pattern Recognition
 
 - Mohandeep Kapur
