@@ -76,6 +76,3 @@ results:
  [0.     0.     0.     0.     0.0054 0.     0.9993]]
 p of error: 0.061479869423285836
 '''
-
-# my simple classifier only works with 0-1 loss func, no? double check. i know my p2 code works w/ any
-# separate "training" classifier and making decisions
