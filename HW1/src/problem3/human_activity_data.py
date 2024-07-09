@@ -4,10 +4,9 @@ from problem3 import SimpleClassifier
 
 """
 training model aka decision rule
-training is just finding likelihood pdfs and prior probs for each class 
+training in this context is just finding likelihood pdfs and prior probs for each class 
 """
 def run_activity_inferences(cf2: SimpleClassifier):
-    # Define the function to read the file and store the data in a 2D array
 
     features = []
     with open("HW1/human_activity_data", 'r') as file:
